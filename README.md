@@ -7,7 +7,7 @@ With proper API credentials the APS package allows provisioning a "paid" status 
 
 APS compliance
 --------------
-This package has been tested to work with the http://http://dev.apsstandard.org/ lin-mn sandbox provisioned on Feb. 21, 2014.
+This package has been tested to work with the http://dev.apsstandard.org/ lin-mn sandbox provisioned on Feb. 21, 2014.
 
 API credentials
 ---------------
