@@ -1,17 +1,27 @@
 Meetin.gs APS Standard deployment guide
 ====================
 
-Application editions
---------------------
+Audience
+--------
+This document is intended for people who need to deploy the Meetin.gs APS package to a provisioning system (like Parallels Panel).
+
+Provisioned application editions
+--------------------------------
 With proper API credentials the APS package allows provisioning a "paid" status for Meetin.gs users.
+
+With the default credentials, the package provisions "freemium" users in the global Meetin.gs cloud.
+
+Getting API credentials
+-----------------------
+To request your development or production API credentials, please contact antti@meetin.gs after negotiating the appropriate financial agreements with Meetin.gs Ltd.
 
 APS compliance
 --------------
 This package has been tested to work with the http://dev.apsstandard.org/ lin-mn sandbox provisioned on Feb. 21, 2014.
 
-API credentials
----------------
-To request your development or production API credentials, please contact antti@meetin.gs after negotiating the appropriate financial agreements with Meetin.gs Ltd.
+How to deploy the package
+-------------------------
+Follow the [deployment example document](https://docs.google.com/document/d/11TiE47GPzk_IeaBS3hViSU_buQ_7GiG-MN85-qnQuKI/pub) published in Google Documents.
 
 How to verify provisioning
 --------------------------
