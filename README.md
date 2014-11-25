@@ -5,6 +5,12 @@ Audience
 --------
 This document is intended for people who need to deploy the Meetin.gs APS package to a provisioning system (like Parallels Panel).
 
+What is Meetin.gs?
+------------------
+Meetin.gs is the smartest way to meet. Get your meetings on the cloud and access them from any device. The service keeps everyone up-to-date and on the same page, synchronizes calendars and sends beautiful meeting notifications and follow-ups. Meetin.gs works pretty much for any meeting, online or face-to-face.
+
+See more at http://meetin.gs/
+
 Provisioned application editions
 --------------------------------
 With proper API credentials the APS package allows provisioning a "paid" status for Meetin.gs users.
